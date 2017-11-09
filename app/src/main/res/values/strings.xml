@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">AndroidDatabaseRealm</string>
+    <string name="name">Saisir un nom</string>
+    <string name="marks">Saisir une note</string>
+    <string name="bAdd">Add</string>
+    <string name="bView">View</string>
+    <string name="bUpdate">Update</string>
+    <string name="bDelete">Delete</string>
+
+
+</resources>
